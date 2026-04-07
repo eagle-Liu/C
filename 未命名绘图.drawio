@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="XQK0vmGUiZUkuL-HWhRH">
+    <mxGraphModel dx="808" dy="449" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0" adaptiveColors="auto">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="27jAcCejLgTNiOZuinzy-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="230" width="620" x="110" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="上位机" vertex="1">
+          <mxGeometry height="20" width="120" x="375" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-22" edge="1" parent="1" source="27jAcCejLgTNiOZuinzy-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="27jAcCejLgTNiOZuinzy-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-27" connectable="0" parent="27jAcCejLgTNiOZuinzy-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="UART" vertex="1">
+          <mxGeometry relative="1" x="-0.2026" as="geometry">
+            <mxPoint y="6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="激光模块" vertex="1">
+          <mxGeometry height="20" width="70" x="150" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-21" edge="1" parent="1" source="27jAcCejLgTNiOZuinzy-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="27jAcCejLgTNiOZuinzy-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-26" connectable="0" parent="27jAcCejLgTNiOZuinzy-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="CAN、UART" vertex="1">
+          <mxGeometry relative="1" x="-0.0987" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="水刀模块" vertex="1">
+          <mxGeometry height="20" width="60" x="220" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-20" edge="1" parent="1" source="27jAcCejLgTNiOZuinzy-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="27jAcCejLgTNiOZuinzy-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-25" connectable="0" parent="27jAcCejLgTNiOZuinzy-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="TIM" vertex="1">
+          <mxGeometry relative="1" x="-0.0883" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="负压模块" vertex="1">
+          <mxGeometry height="20" width="60" x="280" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-19" edge="1" parent="1" source="27jAcCejLgTNiOZuinzy-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="27jAcCejLgTNiOZuinzy-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-24" connectable="0" parent="27jAcCejLgTNiOZuinzy-19" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="UART" vertex="1">
+          <mxGeometry relative="1" x="-0.1403" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RFID控制" vertex="1">
+          <mxGeometry height="20" width="60" x="340" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-18" edge="1" parent="1" source="27jAcCejLgTNiOZuinzy-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="27jAcCejLgTNiOZuinzy-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-23" connectable="0" parent="27jAcCejLgTNiOZuinzy-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="GPIO" vertex="1">
+          <mxGeometry relative="1" x="-0.0987" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="按键和限位模块" vertex="1">
+          <mxGeometry height="20" width="110" x="470" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-32" edge="1" parent="1" source="27jAcCejLgTNiOZuinzy-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="27jAcCejLgTNiOZuinzy-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-33" connectable="0" parent="27jAcCejLgTNiOZuinzy-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="UART" vertex="1">
+          <mxGeometry relative="1" x="0.1959" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="UI通信模块" vertex="1">
+          <mxGeometry height="20" width="70" x="400" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="按键和限位" vertex="1">
+          <mxGeometry height="20" width="110" x="470" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="RFID" vertex="1">
+          <mxGeometry height="20" width="60" x="340" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="负压泵" vertex="1">
+          <mxGeometry height="20" width="60" x="280" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="推泵和保护盖电机" vertex="1">
+          <mxGeometry height="30" width="60" x="220" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="激光器" vertex="1">
+          <mxGeometry height="20" width="70" x="150" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-30" edge="1" parent="1" source="27jAcCejLgTNiOZuinzy-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="27jAcCejLgTNiOZuinzy-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-31" connectable="0" parent="27jAcCejLgTNiOZuinzy-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SPI" vertex="1">
+          <mxGeometry relative="1" x="-0.1714" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="存储模块" vertex="1">
+          <mxGeometry height="20" width="110" x="580" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="27jAcCejLgTNiOZuinzy-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="FLASH" vertex="1">
+          <mxGeometry height="20" width="110" x="580" y="300" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
